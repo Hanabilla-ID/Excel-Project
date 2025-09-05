@@ -3,7 +3,7 @@
 This repository contains an **Accounting Cycle Project** developed as part of academic coursework.  
 The project demonstrates the full process of an accounting cycle using Microsoft Excel.
 
-### 📂 Google Sheets Preview
+## Google Sheets Preview
 - [ACCOUNTING CYCLE - Excel Preview](https://undipmail-my.sharepoint.com/:x:/g/personal/hanazam_alumni_undip_ac_id/ETvDJzTMoLNKlSCpXhO7ygUBQEmzB2Ud6h6Yn921vQJWCg?e=3T9H6F)
 
 > Tip: On mobile, click the links to **open in browser** or the Google Sheets app for the best experience.
@@ -31,7 +31,7 @@ Microsoft Excel
 
 # Financial Planning and Payroll System for Islamic Microfinance Institution (KJKS) 
 
-### 📂 Google Sheets Preview
+## Google Sheets Preview
 - [FINANCIAL PLAN - Excel Preview](https://undipmail-my.sharepoint.com/:x:/g/personal/hanazam_alumni_undip_ac_id/EQpvJztcaJNPpQW62DQwKbcBEA3ZCYkFUYio-YUHdeiHlg?e=QeLTV9)  
 - [PAYROLL - Excel Preview](https://undipmail-my.sharepoint.com/:x:/g/personal/hanazam_alumni_undip_ac_id/EejRLeYXJzROjDcYtctWExQBwGpKFKXs_zEJM2UJzBC4ZQ?e=ZT7Kcj) 
 
