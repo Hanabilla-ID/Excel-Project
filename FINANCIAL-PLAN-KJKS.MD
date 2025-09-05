@@ -1,8 +1,4 @@
-# Financial Plan Simulation - KJKS
-
-This project contains a financial planning simulation for a KJKS (Islamic Microfinance Institution).  
-The simulation was created in Microsoft Excel as part of academic coursework.  
-
+# Financial Plan Simulation - KJKS 
 ---
 
 ## Project Files
@@ -11,10 +7,24 @@ The simulation was created in Microsoft Excel as part of academic coursework.
 
 ---
 
-## Features
-- Budgeting  
-- Allocation of funds  
-- Financial projections  
+## Project Overview
+- This project contains a **financial planning simulation** for a KJKS (Islamic Microfinance Institution), created in Microsoft Excel.  
+- It was completed as part of coursework in **Laboratory of Sharia-Compliant Banking**.  
+- The system focuses on budgeting, cash flow projections, and financial summaries in compliance with Shariah principles, and was done as a **team assignment**.
+
+---
+
+## File Included
+- **Payroll System (Excel)** → contains salary calculation sheets, allowance schedules, deduction templates, and payroll summaries.
+
+## Skills Applied
+- Microsoft Excel (Formulas, Conditional Formatting, Data Linking)  
+- Payroll Management:
+  - Salary Calculation  
+  - Allowances & Deductions Management  
+  - Payment Scheduling  
+  - Reporting in Shariah-compliant context  
+- Team Collaboration & Project Management
 
 ---
 
@@ -25,3 +35,10 @@ To practice financial planning and budgeting in the context of Islamic microfina
 
 ## Tools
 - Microsoft Excel
+
+---
+
+## Notes
+This project demonstrates a practical approach to managing payroll for a Shariah-compliant microfinance institution.  
+Useful as a reference for applying Excel-based payroll models in Islamic Finance simulation contexts.  
+
