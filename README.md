@@ -18,4 +18,4 @@ To gain practical understanding of how financial transactions are recorded and s
 - Microsoft Excel  
 
 ## Notes
-This project was completed **individually** as part of coursework.
+This project was developed as part of **coursework** to practice end-to-end accounting workflows
