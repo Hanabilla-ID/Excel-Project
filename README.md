@@ -15,7 +15,7 @@ The project demonstrates the full process of an accounting cycle using Microsoft
 To gain practical understanding of how financial transactions are recorded and summarized into final financial statements using Excel as a tool.
 
 ## Tools
-- Microsoft Excel  
+Microsoft Excel  
 
 ## Notes
 This project was developed as part of **coursework** to practice end-to-end accounting workflows
