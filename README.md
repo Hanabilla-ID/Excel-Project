@@ -8,8 +8,6 @@ The project demonstrates the full process of an accounting cycle using Microsoft
 
 > Tip: On mobile, click the links to **open in browser** or the Google Sheets app for the best experience.
 
----
-
 ## Project Overview
 - Journal Entries  
 - Posting to Ledgers  
@@ -18,16 +16,13 @@ The project demonstrates the full process of an accounting cycle using Microsoft
 - Financial Statements (Income Statement & Balance Sheet)  
 - Closing Process
   
---- 
-
 ## Purpose
 To gain practical understanding of how financial transactions are recorded and summarized into final financial statements using Excel as a tool.
-
----
 
 ## Tools
 Microsoft Excel  
 
+---
 
 # Financial Planning and Payroll System for Islamic Microfinance Institution (KJKS) 
 
@@ -37,7 +32,6 @@ Microsoft Excel
 
 > Tip: On mobile, click the links to **open in browser** or the Google Sheets app for the best experience.
 
----
 
 ## Project Overview
 This project was developed as part of coursework in Islamic Economics.  
@@ -45,13 +39,11 @@ We designed a **financial plan** and a **payroll system** for an Islamic Microfi
 
 The project demonstrates the application of **financial analysis, budgeting, payroll management, and reporting** in the context of Islamic microfinance operations.
 
----
 
 ## Files Included
 - **SIMULASI FINANCIAL PLAN KJKS.xls** → budgeting, fund allocation, and financial projections.  
 - **SIMULASI REGULASI PENGGAJIAN KJKS.xls** → salary calculation, payroll simulation, and reporting.  
 
----
 
 ## Skills Applied
 - Microsoft Excel (formulas, functions, and data modeling)  
@@ -59,12 +51,10 @@ The project demonstrates the application of **financial analysis, budgeting, pay
 - Budgeting and Reporting  
 - Islamic Microfinance Concepts  
 
----
 
 ## Purpose
 The purpose of this project was to practice financial management skills, gain hands-on experience with Excel-based simulations, and understand how financial planning and payroll systems work within Islamic Microfinance Institutions.
 
----
 
 ## Author
 Developed as part of academic coursework in **Islamic Economics**.  
