@@ -42,8 +42,7 @@ The project demonstrates the application of **financial analysis, budgeting, pay
 ---
 
 ## Purpose
-The purpose of this project was to practice financial management skills,  
-gain hands-on experience with Excel-based simulations, and understand how financial planning and payroll systems work within Islamic Microfinance Institutions.
+The purpose of this project was to practice financial management skills, gain hands-on experience with Excel-based simulations, and understand how financial planning and payroll systems work within Islamic Microfinance Institutions.
 
 ---
 
