@@ -31,12 +31,10 @@
 ## Purpose
 To practice financial planning and budgeting in the context of Islamic microfinance institutions.
 
----
 
 ## Tools
 - Microsoft Excel
 
----
 
 ## Notes
 This project demonstrates a practical approach to managing payroll for a Shariah-compliant microfinance institution.  
