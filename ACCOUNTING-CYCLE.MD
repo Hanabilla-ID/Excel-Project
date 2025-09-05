@@ -2,7 +2,7 @@
 
 # Project Files
 
-- [Download Excel Version](https://drive.google.com/drive/folders/1j1zMrlC7_Xt8ho2ZQXnyXL18VoUkHBBB) – for full offline Excel file
+- [Download Excel Version](https://drive.google.com/drive/folders/1j1zMrlC7_Xt8ho2ZQXnyXL18VoUkHBBB) 
 
 ## Project Overview
 This project was created as part of coursework in **Accounting & Islamic Economics**.  
