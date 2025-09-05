@@ -1,7 +1,6 @@
 # Accounting Cycle Simulation (Siklus Akuntansi)
 
-# Project Files
-
+## Project Files
 - [Download Excel Version](https://drive.google.com/drive/folders/1j1zMrlC7_Xt8ho2ZQXnyXL18VoUkHBBB) 
 - [View Online Preview](https://undipmail-my.sharepoint.com/:x:/g/personal/hanazam_alumni_undip_ac_id/ETvDJzTMoLNKlSCpXhO7ygUBQEmzB2Ud6h6Yn921vQJWCg?e=FOf2yT) 
 
