@@ -1,5 +1,9 @@
 # Accounting Cycle Simulation (Siklus Akuntansi)
 
+# Project Files
+
+- [Download Excel Version](https://drive.google.com/drive/folders/1j1zMrlC7_Xt8ho2ZQXnyXL18VoUkHBBB) – for full offline Excel file
+
 ## Project Overview
 This project was created as part of coursework in **Accounting & Islamic Economics**.  
 It simulates the **accounting cycle** using Microsoft Excel, covering the process from journal entries to financial statements.
